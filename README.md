@@ -12,23 +12,32 @@ Además, se incluye la posibilidad de interacción con profesionales de la salud
 
 Para descargar e instalar la APK en tu dispositivo Android, accedé al siguiente enlace:
 
-👉 **[Descargar APK](https://github.com/PanzaSaurio/TFG_S21_ReynaMario_FE/releases)**
+👉 **[Descargar APK](https://drive.google.com/file/d/1cc-2Hwg2N8ldEDog8sJwPZJKO5SYjb55/view?usp=sharing)**
 
 ---
 
-## 🎥 Video demostrativo
 
-Podés visualizar un video donde se muestra el funcionamiento completo de la aplicación, sus principales pantallas y las funcionalidades implementadas, en el siguiente enlace:
-
-👉 **[Ver video demo](https://github.com/PanzaSaurio/TFG_S21_ReynaMario_FE#demo-video)**
-
----
 
 ## 💬 Ejecución de la demo
 
-Toda la información sobre cómo ejecutar la demo, requisitos previos y pasos de instalación se encuentra detallada en la sección **Demo** del README del repositorio:
+Si no dispones de un dispositivo físico, puedes probar la aplicación usando el emulador oficial de Android Studio. Aquí te explico cómo hacerlo:
 
-👉 [Repositorio del proyecto en GitHub](https://github.com/PanzaSaurio/TFG_S21_ReynaMario_FE)
+1. **Instalá Android Studio**  
+   Descargá e instalá Android Studio desde [aquí](https://developer.android.com/studio).
+
+2. **Configurá un dispositivo virtual (AVD)**  
+   - Abrí Android Studio y entrá en el menú **Tools > Device Manager**.
+   - Creá un nuevo dispositivo virtual (por ejemplo, Pixel 5).
+   - Seleccioná una imagen de sistema (recomendado: API 30 o superior).
+   - Finalizá la configuración y lanzá el emulador.
+
+3. **Instalá la APK**  
+   - Descargá el archivo `.apk` desde el enlace proporcionado arriba.
+   - Con el emulador abierto, arrastrá y soltá el archivo `.apk` en la ventana del emulador.
+   - Esperá a que finalice la instalación automáticamente.
+
+4. **Abrí la aplicación**  
+   - Buscá el icono de la aplicación en el menú del emulador y abrilo para comenzar a probarla.
 
 ---
 
